@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
 
     private func validate() {
-        
+        print("Validate")
     }
 
 }
